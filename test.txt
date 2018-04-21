@@ -1,0 +1,42 @@
+//test apartments
+
+123 6th St. 
+Melbourne, FL 32904
+aptNum: 2a
+Rent: 1000
+SqFeet: 500
+
+71 Pilgrim Avenue 
+Chevy Chase, MD 20815
+aptNum: 2a
+Rent: 500
+SqFeet: 800
+
+70 Bowman St. 
+South Windsor, CT 06074
+aptNum: 2a
+Rent: 600
+SqFeet: 300
+
+4 Goldfield Rd. 
+Honolulu, HI 96815
+aptNum: 2a
+Rent: 800
+SqFeet: 644
+
+44 Shirley Ave. 
+West Chicago, IL 60185
+aptNum: 2a
+Rent: 750
+SqFeet: 500
+
+44 Shirley Ave. 
+West Chicago, IL 60185
+aptNum: 2b
+Rent: 650
+SqFeet: 800
+
+514 S. Magnolia St. 
+Orlando, FL 32806
+aptNum: 2a
+Rent: 300

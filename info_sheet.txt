@@ -1,0 +1,59 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Danielle Moonah-Susankar
+
+Lecture section:  T TH 11am- 12:15pm
+
+Recitation day and time:  12pm F
+
+Assignment #:  3
+
+Program due date:  3/22/18
+
+Handed in date:  3/22/18
+
+Source code file name(s):
+
+Car.java
+CarTracker.java
+IndexMinPQ.java
+
+(the others are used or are just )
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: Yes?
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+I haven't really tested it, but it generally runs
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+

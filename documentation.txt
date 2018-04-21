@@ -1,0 +1,10 @@
+
+Car.java
+for encapsulating the information for each individual apartments, I made an Object Car, with getters and setters and a to String method for printing lists of the apartments as is done in the Car Tracker.
+
+I wound up not using CarPQ
+
+CarTracker.java
+What I did was make a Car Comparator 
+
+The main problem with the program is that is assumes valid input
